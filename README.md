@@ -33,3 +33,5 @@ python -m pytest -v
 ```
 
 The automated Pictures verification completed with 11 tests passed.
+
+Setup verification: `bin/setup.sh` completed with `Capstone Environment Setup Complete`. Python 3.9.25 was verified in both dedicated named environments.
